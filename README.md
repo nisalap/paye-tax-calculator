@@ -1,2 +1,8 @@
-# paye-tax-calculator
-This is a simple web app to calculate the PAYE Tax in Sri Lanka (October 2022)
+# PAYE Tax Calculator App
+
+You can see the amount of PAYE Tax for your income with this simple calculator. 
+
+Hosted at: https://paye.pages.dev
+
+Created using React.
+
